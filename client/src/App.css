@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.Headerlist{
+  display: flex;
+  justify-content: flex-end;
+}
+.Toasts{
+  padding-top: 3%;
+  padding-bottom: 5%;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.P-devis{
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 3%;
+  padding-bottom: 2%;
+}
+.NOUS{
+  display: inline-block;
+  justify-content: space-around;
+}
+
+.Welcome{
+  padding-top: 10%;
+  padding-bottom: 18%;
+  padding-left: 3%;
+  padding-right: 3%;
+  border: 3px solid #73AD21;
+  font-weight: 500;
+
+}
+.SommeNous{
+  padding-left: 3%;
+  padding-right: 3%;
+ 
+}
+
+.Services{
+  padding-left: 3%;
+  padding-right: 3%;
+  border: 2px solid orange;
+  display: block;
+  text-align: start;
+}
+
+.Info{
+  padding-left: 3%;
+  padding-right: 2%;
+  display: inline-block;
+  align-items: flex-start;
+  text-align: start;
+}
+
+.Mylocation{
+  border: 2px solid orange;
+}
+.Myspace {
+  padding-left: 3%;
+  padding-right: 3%;
+  border: 2px solid #73AD21;
+  display: block;
+  text-align: start;
+
+}
